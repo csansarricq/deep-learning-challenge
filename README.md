@@ -3,8 +3,8 @@
 ---
 
 ## Overview
-- The purpose of this challenge is to create a model using machine learning for the fictional nonprofit
-- Alphabet Soup, to help select applicants with the best chance of success in their ventures to fund.
+The purpose of this challenge is to create a model using machine learning for the fictional nonprofit
+Alphabet Soup, to see if applicants would be successful if funded.
 
 ## Data Preprocessing
 
@@ -43,7 +43,7 @@
 
 ## Summary
 
-- The average accuracy of the model is **73%** for prediction.
+- The average accuracy of the model is **73%** for prediction. I would consider creating other models to see if a higher accuracy percentage could be achieved.
 - To improve accuracy:
   - Use a larger dataset with stronger correlations between target variables.
   - Run the model with more iterations.
