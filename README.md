@@ -2,6 +2,10 @@
 
 ---
 
+## Overview
+- The purpose of this challenge is to create a model using machine learning for the fictional nonprofit
+- Alphabet Soup, to help select applicants with the best chance of success in their ventures to fund.
+
 ## Data Preprocessing
 
 - **What variable(s) are the target(s) for your model?**
